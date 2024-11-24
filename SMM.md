@@ -2,6 +2,10 @@
 
 ## Chapter 0 - The Easy Stuff
 
+---
+
+---
+
 ### Chapter 0-I Multiply 2-digit numbers by 11.
 
 #### Steps
@@ -23,6 +27,8 @@ In some cases, step a results in a two-digit number.  So, the steps become:
     b. Put the last digit of the results between the digits in the number that is not 11.
     c. Add the first digit of the result to the first original digit.
 
+---
+
 ##### Example
 
 _Problem_: $85 \times 11$
@@ -33,6 +39,8 @@ b. $835$
 
 c. $935$
 
+---
+
 ##### Example (lager problems covered better later)
 
 _Problem_: $314 \times 11$
@@ -42,6 +50,8 @@ a. $3 + 1 = 4$, $1 + 4 = 5$
 b. $3154$
 
 c. $3454$
+
+---
 
 ---
 
@@ -60,6 +70,8 @@ a. $3 \times 4 = 12$
 
 b. $1225$
 
+
+---
 
 ---
 
@@ -82,22 +94,82 @@ Result is $7,221$
 
 ---
 
+---
+
 ## Chapter 1 - Addition and Subtraction
 
-### Chapter 0-III Multiplying Two-Digit Numbers with the Same First Digit
+_Tips_:
+
+- Work from right to left.
+- Simplify problems into smaller parts.
+
+### Chapter 1-I Simple Addition
 
 #### Steps
 
-    a. .
-    b. .
+    a. Add the tens.
+    b. Add the ones.
 
 ##### Example
 
-_Problem_: $text$
+_Problem_: $47 + 32$
 
-a. $text$
+a. $47 + 30 = 77$
 
-b. $text$
+b. $77 + 2 = 79$
+
+---
+
+---
+
+### Chapter 1-I Simple Addition
+
+#### Steps
+
+    a. Add the tens.
+    b. Add the ones.
+
+##### Example
+
+_Problem_: $47 + 32$
+
+a. $47 + 30 = 77$
+
+b. $77 + 2 = 79$
+
+---
+
+### Chapter 1-II Three-Digit Addition
+
+These are the same steps as in the two-digit version, but with more digits.
+
+_Tips_:
+
+- The goal is to keep simplifying the problem until you are adding a on-digit number.
+- To separate the steps, don't try to _see_ the numbers in your head; try to _hear_ them.
+
+#### Steps
+
+    a. Add the top set of digits.
+    b. Add the next lower.
+    etc.
+
+##### Example
+
+_Problem_: $538 + 327$
+
+a. $538 + 300 = 838$
+
+b. $838 + 20 = 858$
+
+c. $858 + 7 = 865$
+
+_The above can be read as_:
+
+    538 plus 327 is
+    838 plus 20 is
+    858 plus 7 is
+    865
 
 ---
 
@@ -105,7 +177,7 @@ b. $text$
 
 
 
-d
+
 
 
 
