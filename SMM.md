@@ -2,8 +2,6 @@
 
 ## Chapter 0 - The Easy Stuff
 
----
-
 ### Chapter 0-I Multiply 2-digit numbers by 11.
 
 #### Steps
