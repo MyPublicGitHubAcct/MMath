@@ -156,8 +156,8 @@ _Tips_:
 #### Steps
 
     a. Add the first number to the hundreds column of the second number.
-    a. Add the result to the tens column of the second number.
-    b. Add the result to the ones column of the second number.
+    b. Add the result to the tens column of the second number.
+    c. Add the result to the ones column of the second number.
 
 ##### Example
 
