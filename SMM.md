@@ -100,7 +100,7 @@ Result is $7,221$
 
 _Tips_:
 
-- Work from right to left.
+- Work from left to right.
 - Simplify problems into smaller parts.
 
 ### Chapter 1-I Simple Addition
